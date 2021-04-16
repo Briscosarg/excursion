@@ -20,6 +20,7 @@ p.headings2 {
 p.download {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 p.gray-text {
@@ -31,4 +32,5 @@ p.gray-text {
 footer {
   text-align: right;
   color: gray;
+  font-size: 21px;
 }
